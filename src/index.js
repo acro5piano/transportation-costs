@@ -1,3 +1,5 @@
+// @flow
+
 const d = require('./data')
 
 const FUEL_COST = 140
